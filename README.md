@@ -1,0 +1,2 @@
+# multipass
+Canonical Multipass repository
